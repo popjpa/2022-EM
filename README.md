@@ -33,3 +33,6 @@
 
 # Algoritmos de Ordenação
 - [2022_11_16](https://github.com/joseneto0/2022-EM/tree/main/treinamentos/2022_11_30)
+
+# Correção Exercícios
+- [2022_12_14](https://github.com/joseneto0/2022-EM/tree/main/treinamentos/2022_12_14)
